@@ -12,7 +12,7 @@
   <img align="left" alt="Devraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p  align="left"><img src="https://github.com/devraj-shah/devrajshah/assets/107785817/f14a9e4d-09bd-4e99-9c4e-858410d73a85" width="400" height="400">
+<p  align="centre"><img src="https://github.com/devraj-shah/devrajshah/assets/107785817/f14a9e4d-09bd-4e99-9c4e-858410d73a85" width="400" height="400">
 
 ## Hey there 👋:
 
