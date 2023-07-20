@@ -25,6 +25,7 @@ I am deeply committed to always growing and learning. Through hands-on experienc
 - 🌱 I'm currently learning Python and Power BI.
 - 🤝🏻 I’m looking to collaborate on project ideas.
 - 🎥 I love creating videos and short films.
+- 📖 Check out my [Resume](https://drive.google.com/file/d/1xI6jKkxW2sHI-ubISUv0VCIKyxpDmw7X/view)
 
 ## Why GitHub 👨🏻‍💻:
 
