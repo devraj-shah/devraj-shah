@@ -23,7 +23,7 @@ I am deeply committed to always growing and learning. Through hands-on experienc
 ## Summary
 - 🚀 I thrive on challenges and believe in the power of collaboration to create innovative solutions.
 - 🌱 I'm currently learning Python and Power BI.
-- 🤝🏻 I’m looking to collaborate on project ideas and participate actively in hackathons.
+- 🤝🏻 I’m looking to collaborate on project ideas.
 - 🎥 I love creating videos and short films.
 
 ## Why GitHub 👨🏻‍💻:
